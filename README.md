@@ -1,7 +1,7 @@
 # Car Price Depreciation Analysis
 
 ## Project Objectives
-The objective of this project is to analyze the depreciation trends of used cars based on data from the 365datascience data camp collected in 2017. The study investigates how different brands and body types retain their value over time and identifies key factors that influence car resale prices. The findings aim to provide insights that can help optimize gross sales.
+The objective of this project is to analyze the depreciation trends of used cars based on data from a second-hand car sales website collected in 2017. The study investigates how different brands and body types retain their value over time and identifies key factors that influence car resale prices. The findings aim to provide insights that can help optimize gross sales.
 
 ## Key Findings
 1. **Depreciation Trends by Brand**
@@ -65,4 +65,8 @@ The objective of this project is to analyze the depreciation trends of used cars
    - Position luxury cars as short-term prestige investments rather than long-term value holders.
 
 By implementing these strategies, gross sales and profitability can be optimized while ensuring better inventory turnover and customer satisfaction.
+
+## Tableau Visualizations
+For interactive visualizations and further insights, visit my Tableau profile:
+[Leon's Tableau Profile](https://public.tableau.com/app/profile/leandro.rocha7700/vizzes)
 
